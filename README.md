@@ -3,7 +3,7 @@
 ### App Description
  an app that says hello world
 
-### App Walk-though
+### App Walk-through
 
 <img src="http://g.recordit.co/mG92DceXdn.gif" width=200><br>
 
