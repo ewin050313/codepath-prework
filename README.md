@@ -1,10 +1,9 @@
 ## The Hello World App
 
 ### App Description
-`TODO://` an app that says hello world
+ an app that says hello world
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/mG92DceXdn.gif" width=200><br>
 
